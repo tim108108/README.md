@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @tim108108  
 - 👀 I am working at RDC  
-- 📫 https://hackmd.io/@tim108108  
+- 📫 https://hackmd.io/@tim108108
+- 🤔 [Linux Kernel](https://github.com/torvalds/linux)
