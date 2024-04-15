@@ -1,4 +1,5 @@
 - 👋 Hi, I’m [@tim108108](https://tim108108.github.io/)  
-- 👀 I am working at RDC  
-- 📫 https://hackmd.io/@tim108108
+- 👀 I am working at RDC
+- 🤗 https://www.d0ngy3.com
+- 👌 https://hackmd.io/@tim108108
 - 🤔 [Linux Kernel](https://github.com/torvalds/linux) [用戶文檔](https://docs.kernel.org/translations/zh_TW/index.html)
