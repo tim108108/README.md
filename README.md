@@ -1,5 +1,4 @@
-- 👋 Hi, I’m [@tim108108](https://tim108108.github.io/)  
+- 👋 Hi, I’m tim
 - 👀 I am working at RDC
 - 🤗 https://www.d0ngy3.com
-- 👌 https://blog.d0ngy3.com
 - 🤔 https://hackmd.io/@tim108108
